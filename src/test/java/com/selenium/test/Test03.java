@@ -11,6 +11,6 @@ public class Test03 extends BaseConfig{
 	public void example03() {
 		HomePage homepage = new HomePage(driver);
 		homepage.searchProduct();
-		
+//		 create method new changed for git//
 }
 }
